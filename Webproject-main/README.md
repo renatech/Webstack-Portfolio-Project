@@ -1,6 +1,6 @@
 # WebstackPortfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+Displaying a list of food receipes 
 
 ## Recommended IDE Setup
 
@@ -19,6 +19,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 yarn
 ```
+
 
 ### Compile and Hot-Reload for Development
 
